@@ -10,6 +10,7 @@ I am a beginner at electronic and want to learn new things and upgrade my experi
 
 ## BOM
 
+https://github.com/Adam-Primus/2D-Matrix-display/blob/main/BOM.csv
 
 ## Schematics
 ![Schematics CAD](17.10.2026-1.png)
@@ -17,6 +18,9 @@ I am a beginner at electronic and want to learn new things and upgrade my experi
 It is not very fancy but it works.
 
 File Link:-
+https://github.com/Adam-Primus/2D-Matrix-display/tree/main/2D-Matrix-CAD
 
-## Pictures
+## Picture
+
+![](17.10.2026.jpg)
 
