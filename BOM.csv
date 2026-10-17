@@ -1,7 +1,8 @@
 Name,Reference,Quantity,Price,My Source
 Doit ESP32 devkit v1,Microcontroller,      x 1,               ~ $ 5.49,Local Marketplace
 LEDs,White,      x 30,               ~ $ 0.7,Local Marketplace
-Resistor,220 ?,      x 5,               ~ $ 0.5,Local Marketplace
+Resistor,220 ohms,      x 6,               ~ $ 0.5,Local Marketplace
+Resistor, 1k ohms,x 5,               ~ $ 0.5,Local Marketplace
 Transistor,2N2222 NPN,      x 5 ,~ $ 0.1,Local Marketplace
 Other Expenses,"[wires, soldering, etc]",~~,~ $ 2.00,Local Marketplace
 Total,,,~ $ 8.0 - $ 10.0,
